@@ -4,7 +4,7 @@
 👉🏻 Pronomes: Ele/Dele <br>
 👉🏻 18 anos <br>
 👉🏻 Cursando Ciência da Computação <br>
-👉🏻 Atualmente estudando React <br>
+👉🏻 Atualmente estudando React e Next JS<br>
 
 ##
 
