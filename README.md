@@ -2,9 +2,9 @@
 
 #### Sobre mim:
 👉🏻 Pronomes: Ele/Dele <br>
-👉🏻 19 anos <br>
+👉🏻 20 anos <br>
 👉🏻 Cursando Ciência da Computação <br>
-👉🏻 Atualmente estudando Next JS e Nest JS<br>
+👉🏻 Atualmente estudando Node/Nest JS e Golang<br>
 
 ##
 
